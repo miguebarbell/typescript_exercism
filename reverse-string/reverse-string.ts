@@ -1,3 +1,9 @@
-export function reverse(/* Parameters go here */) {
-  throw new Error('Remove this statement and implement this function')
+export function reverse(regularPhrase:string): string {
+  let reverseString = '';
+  for (let word in regularPhrase.split('')) {
+    reverseString = regularPhrase.split('')[word] + reverseString;
+  }
+  return reverseString
+
+
 }
