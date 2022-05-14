@@ -2,3 +2,13 @@
 /resistor-color-trio/node_modules/
 /leap/node_modules/
 /.idea/
+/*/node_modules/
+/*/.exercism
+/*/HELp.md
+/*/HELP.md
+/*/babel.config.cjs
+/*/jest.config.cjs
+/*/tsconfig.json
+/*/.eslintrc.cjs
+/*/.eslintignore
+/*/yarn.lock
