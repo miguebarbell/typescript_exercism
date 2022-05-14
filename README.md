@@ -11,7 +11,7 @@
 | check  | rna transcription | * | |
 | check  | space age | * | |
 |        | word count | * | |
-|        | dnd character  | * |    |     
+| check  | dnd character  | * |    |     
 |        | bob            | * | |
 |        | leap | * | |
 |        | pangram | * | |
