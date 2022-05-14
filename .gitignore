@@ -4,7 +4,6 @@
 /.idea/
 /*/node_modules/
 /*/.exercism
-/*/HELp.md
 /*/HELP.md
 /*/babel.config.cjs
 /*/jest.config.cjs
@@ -12,3 +11,4 @@
 /*/.eslintrc.cjs
 /*/.eslintignore
 /*/yarn.lock
+/*/yarn-error.log
