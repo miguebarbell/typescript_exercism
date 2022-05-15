@@ -12,7 +12,7 @@
 | check  | space age | * | |
 |        | word count | * | |
 | check  | dnd character  | * |    |     
-|        | bob            | * | |
+| check  | bob            | * | |
 |        | leap | * | |
 |        | pangram | * | |
 
